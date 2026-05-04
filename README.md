@@ -1,7 +1,6 @@
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/8553e73c-49b6-4e4c-8246-29e0d1430a8f/thumbnail" height="150px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subh0x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </p>
 
 
